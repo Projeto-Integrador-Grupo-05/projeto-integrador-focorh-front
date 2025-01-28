@@ -3,9 +3,7 @@ import { useNavigate, useParams } from "react-router-dom";
 {
   /*import funcionario from "../../../models/Funcionario";*/
 }
-{
-  /*import Departamento from "../../../models/Departamento";*/
-}
+import ListaCategorias from "../../departamento/CardDepartamento";
 {
   /*import { buscar, atualizar, cadastrar } from "../../../service/Service";*/
 }
