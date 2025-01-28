@@ -11,13 +11,17 @@ function App() {
     <>
       <ToastContainer />
       <BrowserRouter>
-        <div className="min-h-[80vh]">
-          <Navbar/>
+        <div className="min-h-screen flex flex-col">
+          {/* Navbar */}
+          <Navbar />
+          
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/home" element={<Home />} />
           </Routes>
-          <Footer/>
+          
+          {/* Footer */}
+          <Footer />
         </div>
       </BrowserRouter>
     </>

@@ -3,7 +3,7 @@ import ModalFuncionario from "../../components/funcionarios/modalfuncionario/Mod
 function Home() {
     return (
         <>
-            <div className="bg-gradient-to-r from-yellow-300 from-10% via-yellow-200 via-30% to-yellow-100 to-60% flex justify-center">
+            <div className="flex justify-center font-bold font-sans">
                 <div className='container grid grid-cols-2 text-teal-0'>
                     <div className="flex flex-col gap-4 items-center justify-center py-4">
                         <h2 className='text-5xl font-bold'>
