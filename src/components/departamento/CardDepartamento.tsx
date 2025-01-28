@@ -4,7 +4,7 @@ function ListaCategorias() {
       <div className="p-10 h-screen bg-gray-100">
         <div className="pb-4 container flex justify-between items-center text-lg">
           <h1 className="text-xl font-bold text-gray-950 mb-2">Departamento</h1>
-          <button className="tect-sm text-white bg-blue-600 hover:bg-emerald-500  px-3 py-2 rounded-md">
+          <button className="tect-sm text-white bg-teal-800 hover:bg-emerald-500  px-3 py-2 rounded-md">
             Add Departamento
           </button>
         </div>
@@ -28,7 +28,7 @@ function ListaCategorias() {
                 <td className="p-3 text-sm text-gray-700 whitespace-nowrap">
                   <a
                     href="#"
-                    className="font-bold text-blue-500 hover:underline"
+                    className="font-bold text-teal-800 hover:underline"
                   >
                     Desenvolvimento de Software
                   </a>
@@ -38,7 +38,7 @@ function ListaCategorias() {
                     Criação e manutenção de sistemas e aplicativos.
                   </a>
                 </td>
-                <td className="p-3 text-sm text-gray-700 whitespace-nowrap">
+                <td className="p-2 text-sm text-gray-700 whitespace-nowrap">
                   <a href="#" className="">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -61,7 +61,7 @@ function ListaCategorias() {
                 <td className="p-3 text-sm text-gray-700 whitespace-nowrap">
                   <a
                     href="#"
-                    className="font-bold text-blue-500 hover:underline"
+                    className="font-bold text-teal-800 hover:underline"
                   >
                     Suporte Técnico
                   </a>
@@ -71,7 +71,7 @@ function ListaCategorias() {
                     Atendimento e resolução de problemas de TI.{" "}
                   </a>
                 </td>
-                <td className="p-3 text-sm text-gray-700 whitespace-nowrap">
+                <td className="p-2 text-sm text-gray-700 whitespace-nowrap">
                   <a href="#" className="">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -94,7 +94,7 @@ function ListaCategorias() {
                 <td className="p-3 text-sm text-gray-700 whitespace-nowrap">
                   <a
                     href="#"
-                    className="font-bold text-blue-500 hover:underline"
+                    className="font-bold text-teal-800 hover:underline"
                   >
                     Infraestrutura de TI
                   </a>
@@ -104,7 +104,7 @@ function ListaCategorias() {
                     Gerenciamento de servidores, redes e hardware.
                   </a>
                 </td>
-                <td className="p-3 text-sm text-gray-700 whitespace-nowrap">
+                <td className="p-2 text-sm text-gray-700 whitespace-nowrap">
                   <a href="#" className="">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -127,7 +127,7 @@ function ListaCategorias() {
                 <td className="p-3 text-sm text-gray-700 whitespace-nowrap">
                   <a
                     href="#"
-                    className="font-bold text-blue-500 hover:underline"
+                    className="font-bold text-teal-800 hover:underline"
                   >
                     Segurança da Informação
                   </a>
@@ -137,7 +137,7 @@ function ListaCategorias() {
                     Proteção de dados e sistemas contra ameaças.
                   </a>
                 </td>
-                <td className="p-3 text-sm text-gray-700 whitespace-nowrap">
+                <td className="p-2 text-sm text-gray-700 whitespace-nowrap">
                   <a href="#" className="">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -160,7 +160,7 @@ function ListaCategorias() {
                 <td className="p-3 text-sm text-gray-700 whitespace-nowrap">
                   <a
                     href="#"
-                    className="font-bold text-blue-500 hover:underline"
+                    className="font-bold text-teal-800 hover:underline"
                   >
                     Gestão de Dados
                   </a>
@@ -170,7 +170,7 @@ function ListaCategorias() {
                     Organização e análise de informações para o negócio.
                   </a>
                 </td>
-                <td className="p-3 text-sm text-gray-700 whitespace-nowrap">
+                <td className="p-2 text-sm text-gray-700 whitespace-nowrap">
                   <a href="#" className="">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
