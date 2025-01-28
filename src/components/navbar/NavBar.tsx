@@ -6,9 +6,9 @@ function Navbar() {
       <div className="w-full flex justify-center py-4 bg-teal-950 text-white">
         <div className="container flex justify-between items-center text-lg">
           <Link to="/home" className="flex items-center text-2xl font-bold">
-            <img 
-              src="https://i.imgur.com/vmiqxKx.png" 
-              alt="FocoRH Logo" 
+            <img
+              src="https://i.imgur.com/vmiqxKx.png"
+              alt="FocoRH Logo"
               className="w-20 h-20 mr-2"
             />
             FocoRH
