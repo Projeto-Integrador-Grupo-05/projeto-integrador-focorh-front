@@ -7,4 +7,5 @@ export default interface Funcionario {
     funcional: string;
     telefone: string;
     status: string;
+    foto?: string | null;
   }
