@@ -5,6 +5,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import { ToastContainer } from "react-toastify";
 import Navbar from "./components/navbar/NavBar";
 import Footer from "./components/footer/Footer";
+import About from "./pages/about/About";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/home" element={<Home />} />
+            <Route path="sobre" element={<About />}/>
           </Routes>
           
           {/* Footer */}

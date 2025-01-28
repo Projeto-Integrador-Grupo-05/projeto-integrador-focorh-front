@@ -24,7 +24,7 @@ function Home() {
                         <img
                             src="https://i.imgur.com/OtFET9Y.png"
                             alt="Imagem Página Home"
-                            className='w-6/4 mt-12 mb-14 ml-14'
+                            className='w-7/4 mt-12 mb-14 ml-14'
                         />
                     </div>
                 </div>
