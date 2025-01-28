@@ -10,15 +10,15 @@ function ListaCategorias() {
         </div>
         <div className="overflow-auto rounded-lg shadow ">
           <table className="w-full p-12">
-            <thead className="bg-gray-50 border-b-2 border-gray-200">
+            <thead className="bg-teal-800 border-b-2 border-gray-200">
               <tr>
-                <th className="p-3 text-sm font-semibold tracking-wide text-left">
+                <th className="p-3 text-white text-sm font-semibold tracking-wide text-left">
                   Nome
                 </th>
-                <th className="p-3 text-sm font-semibold tracking-wide text-left">
+                <th className="p-3 text-white text-sm font-semibold tracking-wide text-left">
                   Detalhes
                 </th>
-                <th className="p-3 text-sm font-semibold tracking-wide text-left">
+                <th className="p-3 text-white text-sm font-semibold tracking-wide text-left">
                   Ações
                 </th>
               </tr>

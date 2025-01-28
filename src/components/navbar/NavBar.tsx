@@ -7,9 +7,9 @@ function Navbar() {
         <div className="container flex justify-between items-center text-lg">
           <Link to="/home" className=" flex items-center text-2xl font-bold">
             <img
-              src="https://cdn-icons-png.flaticon.com/512/10527/10527142.png"
+              src="https://i.imgur.com/hvpeDji.png"
               alt="FocoRH Logo"
-              className="rounded-lg w-12 h-12 mr-2 "
+              className="rounded-lg bg-white w-12 h-12 mr-2 "
             />
             <div>FocoRH</div>
           </Link>
