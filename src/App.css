@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(
+        to right,
+        #fbcf51 10%,    /* Cor do "from-yellow-300" */
+        #f8e19d 30%,     /* Cor do "via-yellow-200" */
+        #fefcc8 60%      /* Cor do "to-yellow-100" */
+    );
+    min-height: 100vh;
+}
