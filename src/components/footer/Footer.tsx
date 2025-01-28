@@ -1,9 +1,4 @@
-import {
-  FacebookLogo,
-  InstagramLogo,
-  LinkedinLogo,
-  GithubLogo,
-} from "@phosphor-icons/react";
+import { GithubLogo } from "@phosphor-icons/react";
 import { Link } from "react-router-dom";
 
 function Footer() {
@@ -11,7 +6,7 @@ function Footer() {
 
   return (
     <>
-      <div className="flex justify-center bg-teal-950 text-white mt-auto">
+      <div className="flex justify-center bg-teal-800 text-white mt-auto">
         <div className="container flex flex-col items-center py-4">
           <p className="text-xl font-bold">FocoRH | {data}</p>
           <p className="text-lg">Acesse o nosso GitHub</p>
